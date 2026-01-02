@@ -26,7 +26,7 @@ const NEZHA_TLS = process.env.NEZHA_TLS || ''; // 可选：'--tls'
 const ARGO_DOMAIN = process.env.ARGO_DOMAIN || '';
 const ARGO_AUTH = process.env.ARGO_AUTH || ''; 
 const ARGO_PORT = process.env.ARGO_PORT || 8001;
-const CFIP = process.env.CFIP || 'xcr.cf.cname.vvhan.com';
+const CFIP = process.env.CFIP || 'www.visa.com.sg';
 const CFPORT = process.env.CFPORT || 443;
 const NAME = process.env.NAME || 'my-claw';
 
